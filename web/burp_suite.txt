@@ -1,0 +1,5 @@
+1. $sudo apt-get install openjdk-8-jre
+2. Go to https://portswigger.net/burp/communitydownload
+   and download linux version
+3. $sudo bash {path/to/download/file}
+4. Finish the installation
